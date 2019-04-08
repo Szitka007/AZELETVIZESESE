@@ -1,0 +1,46 @@
+body{
+	background-color: lightblue;
+	color:black;
+}
+
+table{
+	background:lightgrey;
+}
+
+#oldalcim{
+	text-align: center;
+	font-size: 200%;
+}
+
+#menu{
+	text-align: center;
+	text-decoration: bold;
+	font-size: 150%;
+
+}
+
+#th{
+	color:black;
+	text-decoration:none;
+}
+
+#th:hover{
+	color:red;
+	text-decoration:none;
+}
+
+#con{
+	text-decoration:underline;
+	color:black;
+	font-size: 200%;
+}
+
+#con:hover{
+	color:yellow;
+	text-decoration:underline;
+	font-size: 200%;
+}
+
+#ident{
+	font-size: 80%
+}
