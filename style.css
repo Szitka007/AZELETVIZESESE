@@ -42,5 +42,13 @@ table{
 }
 
 #ident{
-	font-size: 80%
+	font-size: 80%;
+}
+
+#tartalomcim{
+	font-size:200%;
+}
+
+#elet{
+	font-size:130%;
 }
